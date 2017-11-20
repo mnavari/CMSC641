@@ -1,1 +1,1 @@
-# mldm_project.1
+# CMSC641 Principles of Data Science projects
